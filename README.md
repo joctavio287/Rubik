@@ -1,0 +1,1 @@
+This project is aimed to create an interactable Rubik's Cube.
